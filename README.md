@@ -11,3 +11,4 @@
 ## [libraries](https://github.com/awaxa/arduino/tree/master/libraries "github:awaxa/arduino/tree/master/libraries") I'm using
 * [TinyGPS](http://arduiniana.org/libraries/tinygps/ "arduiniana.org/libraries/tinygps/"), courtesy Arduiniana / Mikal Hart
 * [PString](http://arduiniana.org/libraries/pstring/ "arduiniana.org/libraries/pstring/"), courtesy Arduiniana / Mikal Hart
+* [SD](https://github.com/adafruit/SD/ "github:adafruit/SD"), courtesy adafruit/ladyada
